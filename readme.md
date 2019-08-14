@@ -1,5 +1,7 @@
 # swork-cache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/justin-lee-collins/swork-cache.svg)](https://greenkeeper.io/)
+
 swork-cache is caching middleware for Swork applications and is built with TypeScript and async methods.
 
 ### Example
