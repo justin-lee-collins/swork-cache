@@ -96,3 +96,6 @@ app.on("activate", events.activate.clearCacheOnUpdate({
     ignoreCase: true
 }));
 ```
+## Contact
+
+If you are using [swork](https://www.npmjs.com/package/swork) or any of its related middlewares, please let me know on [gitter](https://gitter.im/swork-chat/community). I am always looking for feedback or additional middleware ideas.
