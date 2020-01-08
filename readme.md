@@ -1,6 +1,6 @@
 # swork-cache
 
-swork-cache is caching middleware for Swork applications and is built with TypeScript and async methods.
+swork-cache is caching middleware for [swork](https://www.npmjs.com/package/swork) applications and is built with TypeScript and async methods.
 
 ### Example
 
@@ -96,6 +96,7 @@ app.on("activate", events.activate.clearCacheOnUpdate({
     ignoreCase: true
 }));
 ```
+
 ## Contact
 
 If you are using [swork](https://www.npmjs.com/package/swork) or any of its related middlewares, please let me know on [gitter](https://gitter.im/swork-chat/community). I am always looking for feedback or additional middleware ideas.
